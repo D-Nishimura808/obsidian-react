@@ -1,0 +1,88 @@
+
+h1, .h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  color: white;
+}
+
+.btn-purple {
+  background-color: rgb(125, 91, 237);
+  font-family: 'Inter', sans-serif;
+  color: white;
+}
+
+
+.img-screenshot {
+  max-width: 1820px;
+  width: 1500px;
+  height: 797px;
+  text-align: center;
+}
+
+.photo-center {
+  text-align: center;
+}
+
+.img-resized {
+  width: 1296px;
+  height: 845px;
+}
+
+.spacer {
+  margin-top: 130px;
+}
+
+.header-colors{
+  background-color: rgba(22, 22, 22, 0.8) !important;
+  border-bottom-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.item-colors {
+  color: rgb(186, 186, 186) !important;
+}
+
+.btn {
+  padding-top: 10px !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+  padding-bottom: 10px !important;
+}
+
+.obslogo {
+  font-family: "Prompt", sans-serif;
+  color: rgb(186, 186, 186);
+}
+
+.footer {
+  color: rgb(186, 186, 186);
+  margin-top: 500px;
+  margin-bottom: 60px;
+}
+
+.footrow {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.fme {
+  font-size: 22px;
+}
+
+.col-margins {
+  margin: 0 30px 30px 30px !important;
+  display: inline-block;
+}
+
+.body-color {
+  background-color: rgb(30, 30, 30);
+}
+
+.span-style {
+  color: rgb(139, 108, 239);
+}
+
+.copyright {
+  margin-bottom: 40px;
+  text-align: center;
+}
